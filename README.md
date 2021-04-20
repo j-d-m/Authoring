@@ -16,3 +16,18 @@ Palmyrene portraits were usually abstract, depicting little individuality. Most 
 # down
 both reflecting a high level of individuality, are more likely to be portraits of the king. The first marble sculpture depicts a man in a royal diadem, and the second shows the king in an eastern royal tiara. Two Palmyrene tesserae, depicting a bearded king wearing a diadem and an earring, are also likely to be depictions of Odaenathus, and two mosaic panels have been identified as possibly depicting him: one of them portrays a rider (probably Odaenathus) killing a Chimera, which fits a prophecy in the thirteenth Sibylline Oracle that includes an account contemporary to Odaenathus, prophesying that he will kill Shapur I, who is described as a beast.
 
+## table
+| Name | E-mail| City |
+| --- | --- | --- |
+| Joshua Moir | j.moir.nz@gmaill.com | Berlin |
+
+##here is some Documentation
+
+(click for help)[https://help.github.com/en]
+
+##here is an image
+
+[image link](./images/loki.jpg)
+
+
+
