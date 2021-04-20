@@ -21,11 +21,11 @@ both reflecting a high level of individuality, are more likely to be portraits o
 | --- | --- | --- |
 | Joshua Moir | j.moir.nz@gmaill.com | Berlin |
 
-##here is some Documentation
+## here is some Documentation
 
 (click for help)[https://help.github.com/en]
 
-##here is a link to the image folder
+## here is a link to the image folder
 
 [image link](./images/loki.jpg)
 
