@@ -25,9 +25,16 @@ both reflecting a high level of individuality, are more likely to be portraits o
 
 (click for help)[https://help.github.com/en]
 
-##here is an image
+##here is a link to the image folder
 
 [image link](./images/loki.jpg)
+
+
+##here is a link to the image
+
+
+
+![image link](./images/loki.jpg)
 
 
 
