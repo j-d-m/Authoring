@@ -30,7 +30,7 @@ both reflecting a high level of individuality, are more likely to be portraits o
 [image link](./images/loki.jpg)
 
 
-##here is a link to the image
+## here is a link to the image
 
 
 
